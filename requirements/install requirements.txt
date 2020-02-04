@@ -1,0 +1,6 @@
+Rodar o comando para instalar os requisitos para rodar a aplicação: 
+
+pip freeze = mostra libs instaladas
+Para habilitar o env = .\venv\Scripts\activate.bat
+
+pip install -r .\requirements\requirements.txt
