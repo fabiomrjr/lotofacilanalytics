@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearningCourse/.idea/MachineLearningCourse.iml" filepath="$PROJECT_DIR$/../MachineLearningCourse/.idea/MachineLearningCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PendenciesPreview2/.idea/PendenciesPreview2.iml" filepath="$PROJECT_DIR$/../PendenciesPreview2/.idea/PendenciesPreview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../backtrade/.idea/backtrade.iml" filepath="$PROJECT_DIR$/../backtrade/.idea/backtrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lotoFacil.iml" filepath="$PROJECT_DIR$/.idea/lotoFacil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lotofacilAnalytics/.idea/lotofacilAnalytics.iml" filepath="$PROJECT_DIR$/../lotofacilAnalytics/.idea/lotofacilAnalytics.iml" />
+    </modules>
+  </component>
+</project>
