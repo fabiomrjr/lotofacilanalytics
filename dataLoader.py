@@ -16,7 +16,9 @@ class DataLoader:
 
         for concurso in arquivo:
             dateContest = datetime.strptime(concurso[1], '%d/%m/%Y')
-            contestaux = Contest(concurso[0], dateContest, concurso[2], concurso[3:18].astype(int))
+            array = concurso[3:18].astype(int);
+            array.sort();
+            contestaux = Contest(concurso[0], dateContest, concurso[2], array)
             lista.append(contestaux)
 
         return lista
