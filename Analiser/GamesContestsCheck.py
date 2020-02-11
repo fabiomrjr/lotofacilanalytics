@@ -43,5 +43,5 @@ class GamesContestsCheck:
                     i = i + 1
 
         for comp in self.compilado:
-            if comp[3] == 14 or comp[3] == 15 or comp[3] == 13:
+            if comp[3] == 14 or comp[3] == 15 or comp[3] == 13 or comp[3] == 12 or comp[3] == 11:
                 print(comp)
